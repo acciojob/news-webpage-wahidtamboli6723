@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+img {
+	width:150px;
+	height:100px
+	
+}
+.img{
+	display: flex;
+	flex-direction: column;
+}
+.shaw{
+	background-color:black;
+	align-items:center;
+}
+.shaw>div{
+	color:white;
+	font-weight:200px;
+	display:flex;
+	justify-content:center;
+}
+.flex{
+	display:flex;
+	margin-right:50px;
+}
